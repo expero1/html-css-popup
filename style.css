@@ -228,7 +228,7 @@ background-color:dimgray;
 	display: block;
 	text-transform: uppercase;
 }
-
+.show-more-checkbox:checked,
 .show-more-checkbox:checked ~ .show-more-btn {
 	display: none;
 }
