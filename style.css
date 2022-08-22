@@ -263,8 +263,7 @@ a:focus {
 .user-menu {
   grid-area: user-menu;
 }
-.user-menu img,
-.notification-menu img {
+.menu-button__icon {
   object-fit: cover;
   width: 30px;
 }
